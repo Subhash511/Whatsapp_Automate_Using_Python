@@ -1,8 +1,5 @@
 # Whatsapp_Automate_Using_Python
 Hi  this script send message using Selenium and PyWhatKit (which is often used for WhatsApp automation):
-# WhatsApp Automation using Python
-
-This project automates the process of sending WhatsApp messages using Python. It utilizes the Selenium library for browser automation.
 
 ## Table of Contents
 - [Requirements](#requirements)
@@ -23,5 +20,5 @@ Follow these steps to set up the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/whatsapp_automation.git
+   git clone https://github.com/Subhash511/Whatsapp_Automate_Using_Python.git
    cd whatsapp_automation
